@@ -424,7 +424,7 @@ Login als `alice` mit korrektem Passwort. Anschließend ist auf der Server-Konso
 
 ## Architektur-Skizze (Excalidraw)
 
-→ [`401-Worst-App.excalidraw.md`](401-Worst-App.excalidraw.md)
+→ [`401-Worst-App.excalidraw.png`](401-Worst-App.excalidraw.png)
 
 ---
 
