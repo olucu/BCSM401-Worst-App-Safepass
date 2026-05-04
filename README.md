@@ -15,7 +15,7 @@ Ein Flask-Passwortmanager mit perfektem Marketing und katastrophaler Sicherheit.
 git clone https://github.com/olucu/BCSM401-Worst-App-Safepass.git
 cd BCSM401-Worst-App-Safepass
 pip install flask flask-unsign --break-system-packages
-python safepass_app.py
+python3 safepass_app.py
 # → http://localhost:5000
 ```
 
