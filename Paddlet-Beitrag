@@ -1,0 +1,18 @@
+SafePass — „Deine Passwörter. Sicher. Versprochen." 😈
+
+Team: Bug Builders — Joel, Lukas, Andreas
+
+Ein Flask-Passwortmanager katastrophaler Sicherheit. In dem Python Code haben wir 7 Schwachstellen gestapelt, die zusammen und im einzelnen Katastrophale folgen haben können.
+
+Die 7 Schwachstellen auf einen Blick:
+
+- SQL Injection im Login
+- Plaintext-Passwörter in der SQLite-DB
+- Hardcoded Secret Key
+- Debug-Modus
+- Kein Session-Timeout
+- IDOR
+- Flask Session Cookie Forgery
+
+Codebase und Dokumentation auf Github:
+https://github.com/olucu/BCSM401-Worst-App-Safepass.git
